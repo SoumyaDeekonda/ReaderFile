@@ -1,0 +1,8 @@
+c:\visual studio\sample\filereader\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+c:\visual studio\sample\filereader\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+c:\visual studio\sample\filereader\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+c:\visual studio\sample\filereader\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+c:\visual studio\sample\filereader\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+c:\visual studio\sample\filereader\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+c:\visual studio\sample\filereader\ConsoleApplication\bin\Debug\samplefilereader.dll
+c:\visual studio\sample\filereader\ConsoleApplication\bin\Debug\samplefilereader.pdb

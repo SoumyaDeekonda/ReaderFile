@@ -1,0 +1,5 @@
+c:\visual studio\sample\filereader\samplefilereader\obj\Debug\samplefilereader.csprojResolveAssemblyReference.cache
+c:\visual studio\sample\filereader\samplefilereader\bin\Debug\samplefilereader.dll
+c:\visual studio\sample\filereader\samplefilereader\bin\Debug\samplefilereader.pdb
+c:\visual studio\sample\filereader\samplefilereader\obj\Debug\samplefilereader.dll
+c:\visual studio\sample\filereader\samplefilereader\obj\Debug\samplefilereader.pdb
